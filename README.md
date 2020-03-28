@@ -6,13 +6,9 @@
 
 <p align="justify">🇺🇸 Software for management of incidents posted by ONGs that could need a donation.</p>
 
-### List all Incidents
+### Previes
 
-![](https://github.com/matheusmhmelo/BeTheHero_Mobile/blob/master/.github/incidents.png)
-
-### Incident's Details
-
-![](https://github.com/matheusmhmelo/BeTheHero_Mobile/blob/master/.github/detail.png)
+![](https://github.com/matheusmhmelo/BeTheHero_Mobile/blob/master/.github/app.gif)
 
 <h1>🇧🇷 Sobre a aplicação</h1>
 
