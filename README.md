@@ -6,7 +6,7 @@
 
 <p align="justify">🇺🇸 Software for management of incidents posted by ONGs that could need a donation.</p>
 
-### Previes
+### Preview
 
 ![](https://github.com/matheusmhmelo/BeTheHero_Mobile/blob/master/.github/app.gif)
 
